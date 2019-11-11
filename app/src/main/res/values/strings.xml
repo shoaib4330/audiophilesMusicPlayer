@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AudioPhile\'s</string>
+
+    <string name="home_fragment_tag">Hello_Its_Home_Screen_Fragment</string>
+</resources>
